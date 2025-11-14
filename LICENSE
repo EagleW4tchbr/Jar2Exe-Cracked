@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2025 EagleW4tchbr
+Copyright (c) 2025 EagleW4tchBR
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,16 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+**IMPORTANT DISCLAIMER**
+
+This tool performs DLL injection and binary patching to bypass the 30-day trial
+of Jar2Exe.  It is **intended for educational / personal-use only**.  
+Distributing or using cracked software commercially may violate copyright law
+in many jurisdictions.
+
+* The author is **not** affiliated with RegExLab.com.  
+* If you find Jar2Exe useful, please purchase a legitimate license:
+  https://www.jar2exe.com/purchase
