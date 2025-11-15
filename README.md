@@ -184,6 +184,7 @@ The Core Of The Crack Consists Of **Static Binary Patches** Applied To j2ewiz.ex
 | **Reverse Engineering & Patching Software** | [Ghidra](https://github.com/NationalSecurityAgency/ghidra) – NSA's SRE Toolkit |
 | **Crack,patching, DLL Injector & Hook Logic** | [EagleW4tchBR](https://github.com/EagleW4tchBR) |
 | **DLL Injection Library** | [MinHook](https://github.com/TsudaKageyu/minhook) |
+| **DLL Compiler** | [mingw](https://github.com/brechtsanders/winlibs_mingw/) - [I Used The 32 Version](https://github.com/brechtsanders/winlibs_mingw/releases/download/15.2.0posix-13.0.0-msvcrt-r3/winlibs-i686-posix-dwarf-gcc-15.2.0-mingw-w64msvcrt-13.0.0-r3.zip)|
 ---
 
 **Use at your own risk.**  
