@@ -1,0 +1,3 @@
+To Compile The Dll Run This
+
+"PATH\TO\mingw32\bin\g++.exe" hook_jar2exe.cpp src\buffer.c src\hook.c src\trampoline.c src\hde\hde32.c -Iinclude -std=c++17 -shared -o hook_jar2exe.dll -static -s -luser32
