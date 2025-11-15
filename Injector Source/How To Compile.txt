@@ -1,0 +1,16 @@
+To Build With Resources (icon+info) Use:
+
+To Change .exe Info Edit resources.rc
+
+Then Use
+
+"PATH\TO\mingw32\bin\windres.exe" resources.rc -O coff -o resources.res
+
+-----------------------------------------------------------------------------------------
+
+And Then Compile cpp To exe With Resources Info
+
+"PATH\TO\mingw32\bin\g++.exe" Jar2exe_Injector.cpp resources.res -o Jar2exe_Injector.exe -std=c++17 -municode -mwindows -static -s
+
+
+
