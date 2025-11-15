@@ -24,6 +24,12 @@
 - [Credits](#credits)
 
 ---
+## DEMO:
+
+
+https://github.com/user-attachments/assets/e1c0fe72-bcbc-467d-bf8f-4ee56378a979
+
+
 
 ## What It Does
 - **Cracks** `j2ewiz.exe` (v2.7) to bypass registration.
